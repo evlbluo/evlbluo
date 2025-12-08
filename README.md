@@ -25,15 +25,6 @@ I work at the intersection of two major fields:
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Lumerical](https://img.shields.io/badge/Ansys_Lumerical-FFA500?style=flat)
-![COMSOL](https://img.shields.io/badge/COMSOL-005587?style=flat)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
----
-
 ### 🌐 Connect with Me
 * 📧 **Email:** evlbluo@gmail.com
 * ---
