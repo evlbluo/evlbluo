@@ -38,4 +38,4 @@ I work at the intersection of two major fields:
 * 📧 **Email:** evlbluo@gmail.com
 * ---
 
-![evlbluo's GitHub stats](https://github-readme-stats.vercel.app/api?username=evlbluo&show_icons=true&theme=radical)
+[![evlbluo's GitHub stats](https://your-app-name.vercel.app/api?username=evlbluo&show_icons=true&theme=radical)](https://github.com/evlbluo)
