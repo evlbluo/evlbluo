@@ -37,5 +37,6 @@ I work at the intersection of two major fields:
 ### 🌐 Connect with Me
 * 📧 **Email:** evlbluo@gmail.com
 * ---
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evlbluo&theme=default)
+![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evlbluo&theme=default)
 
-![Metrics](https://metrics.lecoq.io/evlbluo?template=classic&languages=1&achievements=1)
