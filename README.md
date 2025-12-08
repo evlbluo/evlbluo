@@ -22,4 +22,4 @@ I'm **evlbluo**, a PhD candidate at the **University of Cambridge** (Electrical 
 
 ---
 
-![Lingzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingzhi-CIMCS&show_icons=true&theme=radical)
+![Lingzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=evlbluo&show_icons=true&theme=radical)
