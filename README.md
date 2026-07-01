@@ -2,17 +2,16 @@
 
 ### PhD Candidate · University of Cambridge 🇬🇧
 
-**Electrical Engineering** · **AI-Driven Multiphysics Integrated Circuits & Systems**
+**Electrical Engineering** 
 
 I study **AI-driven multiphysics integrated circuits and systems**.
 
-My research focuses on developing and applying **large AI models** for the **design, simulation, and optimization of analogue, digital, and photonic integrated circuits and systems**.
 
 ---
 
 ## 🔬 Research Focus
 
-My research focuses on **large models for analogue, digital, and photonic integrated circuit design**.
+My research focuses on developing and applying **large AI models** for the **design, simulation, and optimization of analogue, digital, and photonic integrated circuits and systems**.
 
 I am particularly interested in building AI-driven design automation workflows for next-generation integrated multiphysics circuits and systems, combining advances in **large models**, **circuit design**, **photonics**, and **physical engineering**.
 
