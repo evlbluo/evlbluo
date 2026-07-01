@@ -34,7 +34,3 @@ I am particularly interested in building AI-driven design automation workflows f
 
 ![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evlbluo\&theme=default)
 
----
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evlbluo&theme=default)
-![General Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evlbluo&theme=default)
