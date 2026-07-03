@@ -4,16 +4,12 @@
 
 **Electrical Engineering** 
 
-I study **AI-driven multiphysics integrated circuits and systems**.
-
-
+I work on **scaling trust for AI-generated engineering**
 ---
 
 ## 🔬 Research Focus
 
-My research focuses on developing and applying **large AI models** for the **design, simulation, and optimization of analogue, digital, and photonic integrated circuits and systems**.
-
-I am particularly interested in building AI-driven design automation workflows for next-generation integrated multiphysics circuits and systems, combining advances in **large models**, **circuit design**, and **physical engineering**.
+My research focuses on AI-driven design automation for analogue, digital, and photonic integrated circuits and systems, aiming to make complex engineering design more **verifiable**, **reliable**, and **trustworthy**.
 
 ---
 
