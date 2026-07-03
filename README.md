@@ -9,7 +9,7 @@ I work on **scaling trust for AI-generated engineering**
 
 ## 🔬 Research Focus
 
-My research focuses on AI-driven design automation for analogue, digital, and photonic integrated circuits and systems, aiming to make complex engineering design more **verifiable**, **reliable**, and **trustworthy**.
+My research focuses on AI-driven design automation for analogue, digital, and photonic integrated circuits and systems, aiming to make complex engineering design more **efficient**, **verifiable**, **reliable**, and **trustworthy**.
 
 ---
 
