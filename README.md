@@ -4,7 +4,7 @@
 
 **Electrical Engineering** 
 
-I work on **scaling trust for AI-generated engineering**
+I work on AI-driven engineering of complex physical systems.
 ---
 
 ## 🔬 Research Focus
